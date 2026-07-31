@@ -57,10 +57,10 @@ Each solution includes:
 
 | Difficulty | Solved |
 | ---------- | -----: |
-| Easy       |      1 |
+| Easy       |      2 |
 | Medium     |      0 |
 | Hard       |      0 |
-| **Total**  | **1** |
+| **Total**  | **2** |
 
 > *This table will be updated as I solve more problems.*
 
