@@ -58,9 +58,9 @@ Each solution includes:
 | Difficulty | Solved |
 | ---------- | -----: |
 | Easy       |      4 |
-| Medium     |      3 |
+| Medium     |      5 |
 | Hard       |      0 |
-| **Total**  | **7** |
+| **Total**  | **9** |
 
 > *This table will be updated as I solve more problems.*
 
